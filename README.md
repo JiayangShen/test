@@ -1,7 +1,7 @@
 # test
 
-[Heading Anchor](#标-题)
+[Heading Anchor](#标题)
 
 ![](img/win10.png)
 
-### 标-题
+### 标题
